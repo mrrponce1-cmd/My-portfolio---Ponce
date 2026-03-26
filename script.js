@@ -91,7 +91,8 @@ function initTextScramble() {
     const phrases = [
         'Creative Developer & Designer',
         'Frontend Engineer & Artist',
-        'UI/UX Specialist'
+        'UI/UX Specialist',
+        'Web Designer & Coder',
     ];
 
     const next = () => {
